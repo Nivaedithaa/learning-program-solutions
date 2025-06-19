@@ -1,0 +1,14 @@
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.AssemblyInfoInputs.cache
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.AssemblyInfo.cs
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.csproj.CoreCompileInputs.cache
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\bin\Debug\net8.0\SingletonPatternExamples.exe
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\bin\Debug\net8.0\SingletonPatternExamples.deps.json
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\bin\Debug\net8.0\SingletonPatternExamples.runtimeconfig.json
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\bin\Debug\net8.0\SingletonPatternExamples.dll
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\bin\Debug\net8.0\SingletonPatternExamples.pdb
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.dll
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\refint\SingletonPatternExamples.dll
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.pdb
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\SingletonPatternExamples.genruntimeconfig.cache
+C:\Users\nivae\source\repos\SingletonPatternExamples\SingletonPatternExamples\obj\Debug\net8.0\ref\SingletonPatternExamples.dll
