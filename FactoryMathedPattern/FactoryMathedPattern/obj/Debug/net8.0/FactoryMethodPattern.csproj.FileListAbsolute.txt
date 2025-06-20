@@ -1,0 +1,14 @@
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\bin\Debug\net8.0\FactoryMethodPattern.exe
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\bin\Debug\net8.0\FactoryMethodPattern.deps.json
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\bin\Debug\net8.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\bin\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\bin\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.dll
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\refint\FactoryMethodPattern.dll
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.pdb
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\nivae\source\repos\FactoryMathedPattern\FactoryMathedPattern\obj\Debug\net8.0\ref\FactoryMethodPattern.dll
