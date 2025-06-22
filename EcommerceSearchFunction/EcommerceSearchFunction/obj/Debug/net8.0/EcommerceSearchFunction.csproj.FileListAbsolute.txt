@@ -1,0 +1,14 @@
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.AssemblyInfoInputs.cache
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.AssemblyInfo.cs
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\bin\Debug\net8.0\EcommerceSearchFunction.exe
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\bin\Debug\net8.0\EcommerceSearchFunction.deps.json
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\bin\Debug\net8.0\EcommerceSearchFunction.runtimeconfig.json
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\bin\Debug\net8.0\EcommerceSearchFunction.dll
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\bin\Debug\net8.0\EcommerceSearchFunction.pdb
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.dll
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\refint\EcommerceSearchFunction.dll
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.pdb
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\EcommerceSearchFunction.genruntimeconfig.cache
+C:\Users\nivae\source\repos\EcommerceSearchFunction\EcommerceSearchFunction\obj\Debug\net8.0\ref\EcommerceSearchFunction.dll
