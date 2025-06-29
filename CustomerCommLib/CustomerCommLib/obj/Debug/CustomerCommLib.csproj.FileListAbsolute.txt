@@ -1,0 +1,7 @@
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll.config
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\nivae\source\repos\CustomerCommLib\CustomerCommLib\obj\Debug\CustomerCommLib.pdb
